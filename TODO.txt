@@ -1,0 +1,15 @@
+v2.0
+1. New physics engine
+	--> Learn Matter.js
+2. New spawn logic
+3. Sprites
+	--> Ball
+	--> Cleaver (?)
+	--> Mines
+	--> Explosions
+4. Haptic Feedback -- see if crosswalk can do it alone
+5. Music
+6. New UI and Menus
+7. Integrate with Crosswalk
+8. Test on mobile
+9. UPLOAD!
